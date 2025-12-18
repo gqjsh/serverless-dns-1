@@ -29,8 +29,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "gqjsh-serverless-54"
-          entrypoint: "src/sever-deno.ts"
+          project: "gqjsh-serverless-52"
+          entrypoint: "src/server-deno.ts"
           root: ""
           
           
